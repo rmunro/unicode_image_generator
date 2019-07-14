@@ -3,7 +3,8 @@ Generates an image for every unicode character
 
 This will generate a JPG file for unicode characters.
 
-Requires python 3.x
+Requires python 3.x 
+See the `import` statements at the top of `create_unicode_stratified.py` for additional python libraries that you might need to install.
 
 # Usage:
 
